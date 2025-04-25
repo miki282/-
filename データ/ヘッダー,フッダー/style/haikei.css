@@ -1,0 +1,20 @@
+body{
+    background-image: url(./images/haikei.png);
+    .resizeimage img { width: 100vw; }
+}
+
+header{
+    background-color: #CCCC99;
+}
+
+main{
+    background-color: aliceblue;
+}
+
+footer{
+    background-color: #CCCC99;
+}
+
+p{
+    color: aliceblue;
+}
